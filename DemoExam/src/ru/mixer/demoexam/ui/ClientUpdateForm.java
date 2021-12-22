@@ -1,6 +1,6 @@
 package ru.mixer.demoexam.ui;
 
-import org.omg.CORBA.MARSHAL;
+//import org.omg.CORBA.MARSHAL;
 import ru.mixer.demoexam.Application;
 import ru.mixer.demoexam.entity.ClientEntity;
 import ru.mixer.demoexam.manager.ClientEntityManager;

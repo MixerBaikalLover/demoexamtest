@@ -1,6 +1,7 @@
 package ru.mixer.demoexam;
 
 import ru.mixer.demoexam.ui.ClientCreateForm;
+import ru.mixer.demoexam.ui.ClientTableForm;
 import ru.mixer.demoexam.ui.MainForm;
 
 import javax.swing.*;
@@ -19,8 +20,8 @@ public class Application {
             e.printStackTrace();
         }
 
-        new MainForm();
-
+        // new MainForm();
+        new ClientTableForm();
 
     }
 
